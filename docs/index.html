@@ -2,7 +2,9 @@
         <meta charset="utf-8">
         <title>My Website</title>
         <link rel="stylesheet" href="/style.css">
+        <script src="/portfolio-bg.wasm"></script>
+        <script src="/portfolio.js"></script>
     
-<link rel="preload" href="/portfolio-website_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
-<link rel="modulepreload" href="/portfolio-website.js"></head>
-<body><script type="module">import init from '/portfolio-website.js';init('/portfolio-website_bg.wasm');</script></body></html>
+<link rel="preload" href="/portfolio_bg.wasm" as="fetch" type="application/wasm" crossorigin="">
+<link rel="modulepreload" href="/portfolio.js"></head>
+<body><script type="module">import init from '/portfolio.js';init('/portfolio_bg.wasm');</script></body></html>
