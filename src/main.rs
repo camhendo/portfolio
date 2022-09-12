@@ -1,4 +1,4 @@
-use yew::{Callback, function_component, html, use_state};
+use yew::{function_component, html, use_state, Callback};
 
 
 #[function_component(UseState)]
