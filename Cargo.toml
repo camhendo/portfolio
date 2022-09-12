@@ -1,9 +1,9 @@
 [package]
-name = "portfolio-website"
+name = "portfolio"
 version = "0.1.0"
 edition = "2021"
 description = "Frontend for a static portfolio website"
-repository = "https://github.com/camhendo/portfolio-website"
+repository = "https://github.com/camhendo/portfolio"
 license = "MIT OR Apache-2.0"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
