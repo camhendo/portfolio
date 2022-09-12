@@ -11,7 +11,7 @@ fn state() -> Html {
 
     html! {
         <div>
-            <p>
+            <p> {"It's all a facade" }
                 <b {onclick}>{ "Current value: " }{*counter}</b>
             </p>
         </div>
