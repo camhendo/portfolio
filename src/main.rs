@@ -1,9 +1,7 @@
 use yew::{function_component, html, use_state, Callback};
 
-
 #[function_component(UseState)]
 fn state() -> Html {
-
     let counter = use_state(|| 0);
 
     let onclick = {
