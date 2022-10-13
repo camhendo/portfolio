@@ -7,7 +7,7 @@ target = "index.html"
 dist = "docs"
 # The public URL from which assets are to be served.
 # https://raw.githubusercontent.com/camhendo
-public_url = "/portfolio/"
+public_url = "/"#portfolio/"
 # Whether to include hash values in the output file names.
 filehash = true
 

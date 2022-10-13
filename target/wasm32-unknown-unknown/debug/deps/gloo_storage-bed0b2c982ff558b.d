@@ -1,0 +1,10 @@
+/Users/camhenderson/Documents/_code/_github_work/portfolio/target/wasm32-unknown-unknown/debug/deps/gloo_storage-bed0b2c982ff558b.rmeta: /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/camhenderson/Documents/_code/_github_work/portfolio/target/wasm32-unknown-unknown/debug/deps/libgloo_storage-bed0b2c982ff558b.rlib: /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/camhenderson/Documents/_code/_github_work/portfolio/target/wasm32-unknown-unknown/debug/deps/gloo_storage-bed0b2c982ff558b.d: /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/camhenderson/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:
